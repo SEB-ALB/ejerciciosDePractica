@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1682272540 source:d:\users\sebastian\documents\a analisis de sistemas\3er a—o\estructura de datos y algoritmos iii\tprecursividadgros\main.cpp
+	<iostream>
+	"especificacion.h"
+
+1682272554 d:\users\sebastian\documents\a analisis de sistemas\3er a—o\estructura de datos y algoritmos iii\tprecursividadgros\especificacion.h
+	<iostream>
+
+1683887438 source:c:\proyectos codeblocks\tprecursividadgros\main.cpp
+	<iostream>
+	"especificacion.h"
+
+1305691617 c:\proyectos codeblocks\tprecursividadgros\especificacion.h
+	<iostream>
+
